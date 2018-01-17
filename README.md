@@ -1,14 +1,14 @@
 # pongGame_study
 
-## course link
+** course link **
 www.udemy.com/code-your-first-game
 
-##envolved technologies
+** envolved technologies **
 - html
 - javascript
 - css
 
-## what I learn
+** what I learn **
 - Display, position, and move filled shapes for retro and prototype gameplay
 - Move a ball around your game space such that it bounces off boundaries
 - Handle real-time mouse input
