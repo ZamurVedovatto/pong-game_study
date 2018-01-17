@@ -9,7 +9,6 @@ www.udemy.com/code-your-first-game
 ```
 html
 javascript
-css
 ```
 
 
