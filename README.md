@@ -1,8 +1,6 @@
 # pongGame_study
 
-**course link**
-
-www.udemy.com/code-your-first-game
+**course link**: www.udemy.com/code-your-first-game
 
 
 **technologies**
@@ -10,6 +8,7 @@ www.udemy.com/code-your-first-game
 html
 javascript
 ```
+
 
 
 **what I learn**
