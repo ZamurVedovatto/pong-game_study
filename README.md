@@ -1,4 +1,5 @@
 # pongGame_study
+## Set up a game following a Udemy course
 
 **course link**: www.udemy.com/code-your-first-game
 
